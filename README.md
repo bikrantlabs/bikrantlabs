@@ -18,10 +18,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bikrantlabs&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=bikrantlabs&icon=4&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
